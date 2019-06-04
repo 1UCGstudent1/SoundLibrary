@@ -1,0 +1,15 @@
+h1 
+{
+ color: blue;
+ font-size: 12px;
+}
+
+.myClass 
+{
+  color: red;
+}
+
+#myID 
+{
+  color: green;
+}
